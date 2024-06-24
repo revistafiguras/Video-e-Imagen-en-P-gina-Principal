@@ -16,7 +16,7 @@ Una vez dentro del archivo indexJournal.tpl buscamos esta parte del código al p
         {/if}...
         
 
-Se agrega la linea de la etiqueta <video></video> 
+Se agrega la linea de la etiqueta <video>
 La agregamos junto con sus parámetros style, autoplay, muted y loop, esta línea se ajustará al 100% del bloque lateral izquierdo quedando asi...
 
 
