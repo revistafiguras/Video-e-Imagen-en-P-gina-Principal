@@ -33,3 +33,5 @@ La agregamos junto con sus parámetros style, autoplay, muted y loop, esta líne
                 </div>
         {/if}
 
+El video que vaya a agregarse debe de estar en la ruta: /var/www/html/ojs/public/journals/1
+Este video debe enviarse desde una computadora al servidor con el comando scp. 
